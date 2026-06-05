@@ -1,6 +1,4 @@
-package Week2;
-
-import java.util.Scanner;
+package firstMonth.Week2;
 
 public class Method {
     public static void main(String[] args) {
