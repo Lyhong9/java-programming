@@ -1,4 +1,4 @@
-package firstMonth.Week3;
+package month01.Week3;
 
 public class GetVariable {
     public static void main(String[] args) {

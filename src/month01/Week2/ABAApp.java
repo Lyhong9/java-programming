@@ -1,4 +1,4 @@
-package firstMonth.Week2;
+package month01.Week2;
 
 public class ABAApp {
     public static void main(String[] args) {

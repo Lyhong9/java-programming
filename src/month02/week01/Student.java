@@ -1,6 +1,6 @@
-package secondMonth.firstWeek;
+package month02.week01;
 
-public class classobj {
+public class Student {
     String name;
     int age;
 
@@ -15,10 +15,10 @@ public class classobj {
     }
 
     public static void main(String[] args) {
-        classobj obj1 = new classobj();
-        obj1.name = "Lyhong";
-        obj1.age = 18;
-        obj1.addStudent();
-        obj1.deleteStudent();
+        Student student1 = new Student();
+        student1.name = "Lyhong";
+        student1.age = 18;
+        student1.addStudent();
+        student1.deleteStudent();
     }
 }

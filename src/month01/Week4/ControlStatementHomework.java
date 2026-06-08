@@ -1,4 +1,4 @@
-package firstMonth.Week4;
+package month01.Week4;
 
 import java.util.Scanner;
 

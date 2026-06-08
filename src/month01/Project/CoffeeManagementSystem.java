@@ -1,4 +1,4 @@
-package firstMonth.Project;
+package month01.Project;
 
 import java.util.Scanner;
 

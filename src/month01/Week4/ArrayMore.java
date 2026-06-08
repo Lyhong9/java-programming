@@ -1,4 +1,4 @@
-package firstMonth.Week4;
+package month01.Week4;
 
 public class ArrayMore {
         public static void main(String[] args){
