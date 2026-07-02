@@ -1,4 +1,4 @@
-package month02.projects;
+package month02.projects.plant;
 
 public class Plant {
     String name;
